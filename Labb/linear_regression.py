@@ -1,5 +1,4 @@
 import numpy as np
-#from scipy.stats import st
 
 class LinearRegression:
     def __init__(self, X, y):
